@@ -4,9 +4,9 @@ My name is Irfan Nawawi and you can call me Irfan, i'm a Android Developer and c
 
 ##### &#x1f4c8; GitHub Stats
 <a href="https://github.com/IrfanNawawi/IrfanNawawi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanNawawi&&show_icons=true&title_color=70ffec&icon_color=bb2acf&text_color=ffffff&bg_color=151515" alt="IrfanNawawi's top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IrfanNawawi&&show_icons=true&title_color=70ffec&icon_color=bb2acf&text_color=ffffff&bg_color=151515" alt=Irfan's Github Stats>
 </a>
 
-<a href="https://github.com/IrfanNawawi/IrfanNawawi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IrfanNawawi&&show_icons=true&title_color=70ffec&icon_color=bb2acf&text_color=ffffff&bg_color=151515"&hide=stars&show_icons=true&line_height=32&count_private=true" alt="IrfanNawawi's GitHub Stats>
-</a>
+### 📫 You can reach me on:
+* Instagram: [Irfan Nawawi](https://www.instagram.com/irfannww/?hl=id)
+* LinkedIn: [Irfan Nawawi](https://www.linkedin.com/in/irfan-nawawi-699049156/)
