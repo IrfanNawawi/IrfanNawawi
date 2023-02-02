@@ -9,7 +9,7 @@ An independent Software Engineer who loves to create and share projects about we
 
 ### Tech Stack
   <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg" /></a>
-  <a href="https://codelabs.developers.google.com/?cat=Android/"><img align="left" alt="Android" title="Android" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" /></a>
+  <a href="https://codelabs.developers.google.com/?cat=Android/"><img align="left" alt="Android" title="Android" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" /></a>
   <br>
   <br>
   
