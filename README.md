@@ -6,12 +6,6 @@ An independent Software Engineer who loves to create and share projects about we
 - 🌱 I’m currently learning about mobile apps
 - 💬 Feel free to ask me about mobile development or etc
 - 📫 How to reach me: <a href="irfnawi@gmail.com">Email</a> or <a href="https://linkedin.com/in/irfannawawi/">LinkedIn</a>
-
-### Tech Stack
-  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg" /></a>
-  <a href="https://codelabs.developers.google.com/?cat=Android/"><img align="left" alt="Android" title="Android" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" /></a>
-  <br>
-  <br>
   
 ### Github Statistic
 <p align="left">
