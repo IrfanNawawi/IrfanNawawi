@@ -5,7 +5,7 @@ An independent Software Engineer who loves to create and share projects about we
 - 🔭 I’m currently working on PT Bussan Auto Finance
 - 🌱 I’m currently learning about mobile apps
 - 💬 Feel free to ask me about mobile development or etc
-- 📫 How to reach me: <a href="irfnawi@gmail.com">Email</a> or <a href="https://linkedin.com/in/irfannawawi/">LinkedIn</a>
+- 📫 How to reach me: <a href="irfnawi@gmail.com">Email</a> or <a href="www.linkedin.com/in/irfan-nawawi">LinkedIn</a>
   
 ### Github Statistic
 <p align="left">
